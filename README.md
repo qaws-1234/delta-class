@@ -1,0 +1,2 @@
+# delta-class
+Example code
